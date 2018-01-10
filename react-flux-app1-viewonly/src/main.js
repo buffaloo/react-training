@@ -1,0 +1,4 @@
+ReactDOM.render(
+	<Forum />,
+	mountNode
+);

@@ -1,0 +1,1 @@
+ReactDOM.render(React.createElement(Forum, null), mountNode);
